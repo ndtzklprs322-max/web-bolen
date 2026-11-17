@@ -1,0 +1,12 @@
+KARIVEN BOLEN — WEBSITE PERMANEN
+
+Website ini tidak memiliki fitur edit langsung di browser.
+Tombol Edit Website, Simpan, Reset, mode edit, dan penggantian gambar melalui browser telah dihapus.
+
+CARA MEMBUKA:
+1. Ekstrak ZIP.
+2. Buka folder website.
+3. Buka index.html menggunakan Chrome atau browser.
+
+Konten dan foto produk sudah ditetapkan di file website dan folder assets.
+Untuk perubahan di masa depan, edit file HTML dan gambar secara langsung.
